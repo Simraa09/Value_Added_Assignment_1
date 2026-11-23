@@ -16,7 +16,6 @@ body {
 /* Sidebar */
 .sidebar {
     width: 280px;
-    flex-shrink: 0;
     background-color: #211e4b;
     color: white;
     padding: 30px 13px;
@@ -284,7 +283,6 @@ body {
 
 .progress {
     width: 160px;
-    flex-shrink: 0;
 }
 
 .progress h3 {
