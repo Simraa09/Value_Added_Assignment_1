@@ -57,8 +57,7 @@ nav {
 }
 
 /* Underline for Active and Hover Navigation Links */
-.nav-links li.active::after,
-.nav-links li:hover::after {
+.nav-links li.active::after, .nav-links li:hover::after {
     content: "";
     position: absolute;
     width: 100%;
